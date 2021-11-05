@@ -46,3 +46,5 @@ vim.o.showtabline=2
 vim.g.showtabline=2
 
 vim.cmd [[let g:closetag_filenames = '*.html,*.xhtml,*.phtml, *.jsx, *.js']]
+vim.cmd [[let g:AutoPairsFlyMode =0]]
+vim.cmd [[let g:AutoPairsShortcutBackInsert = '<M-b>']]
